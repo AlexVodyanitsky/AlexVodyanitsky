@@ -1,3 +1,5 @@
+![gif](https://github.com/AlexVodyanitsky/AlexVodyanitsky/blob/main/gifs/presentation.gif)
+
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=FFF0000)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=00FF00)
