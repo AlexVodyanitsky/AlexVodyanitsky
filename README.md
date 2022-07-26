@@ -1,6 +1,6 @@
-##HI! My name is Alexander Vodyanitsky
+## HI! My name is Alexander Vodyanitsky
 
-##I'm a beginner Software Engeneer
+## I'm a beginner Software Engeneer
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=FFF0000)
