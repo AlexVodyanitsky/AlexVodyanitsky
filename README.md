@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ##HI! My name is Alexander Vodyanitsky
 
@@ -19,4 +19,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram)](https://t.me/vodyanixx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexander-vodyanitsky-a4a11b246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkVTKCwn2TnylUsIfJcg7Eg%3D%3D)
 
-<center/>
+<div/>
