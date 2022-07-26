@@ -10,5 +10,5 @@
 ![Flutter](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=00000)
 ![Flutter](https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=sqlite&logoColor=00000)
-
+![Flutter](https://img.shields.io/badge/-Slack-000000?style=for-the-badge&logo=slack&logoColor=00000)
 Contact me
