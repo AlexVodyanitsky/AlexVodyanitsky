@@ -7,7 +7,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=sqlite&logoColor=00000)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=00000)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=00000)
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram)](https://t.me/vodyanixx)
