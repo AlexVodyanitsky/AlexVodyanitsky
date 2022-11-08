@@ -5,7 +5,7 @@
 ![Django](https://img.shields.io/badge/-Django/DRF-000000?style=for-the-badge&logo=django&logoColor=00FF00)
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=sqlite&logoColor=00000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E1F5FE?style=for-the-badge&logo=PostgreSQL&logoColor=00000)
-![Docker](https://img.shields.io/badge/-Docker-013220?style=for-the-badge&logo=Docker&logoColor=00BFFF)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=00BFFF)
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram)](https://t.me/vodyanixx)
