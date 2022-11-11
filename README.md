@@ -1,4 +1,4 @@
-![gif](https://github.com/AlexVodyanitsky/AlexVodyanitsky/blob/main/gifs/presentation.gif)
+![gif](https://github.com/AlexVodyanitsky/AlexVodyanitsky/blob/main/presentation.gif)
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=FFF0000)
