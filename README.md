@@ -1,4 +1,5 @@
-![gif](https://github.com/AlexVodyanitsky/AlexVodyanitsky/blob/main/presentation.gif)
+![presentaion](https://user-images.githubusercontent.com/99562939/201389722-00342a87-9434-477b-a1e9-08ab765de94f.gif)
+
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=FFF0000)
